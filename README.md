@@ -6,6 +6,11 @@ TBD
 
 ## 更新履歴 - Change log
 
+### pickles2/px2-error-reporter v1.0.0 (リリース日未定)
+
+- `tomk79/px2-error-reporter` から `pickles2/px2-error-reporter` へパッケージを移管した。
+- 名前空間名を `tomk79\pickles2\px2ErrorReporter` から `pickles2\px2ErrorReporter` に変更した。
+
 ### tomk79/px2-error-reporter v0.1.1 (2023年9月24日)
 
 - ログに記録される時刻情報を ISO 8601 形式 に変更した。

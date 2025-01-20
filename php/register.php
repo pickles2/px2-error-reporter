@@ -1,5 +1,5 @@
 <?php
-namespace tomk79\pickles2\px2ErrorReporter;
+namespace pickles2\px2ErrorReporter;
 use Throwable;
 
 /**

@@ -1,5 +1,5 @@
 {
-    "name": "tomk79/px2-error-reporter",
+    "name": "pickles2/px2-error-reporter",
     "description": "Pickles 2 Error Reporting Plugin.",
     "keywords": ["pickles2"],
     "license": "MIT",
@@ -44,7 +44,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tomk79\\pickles2\\px2ErrorReporter\\": [
+            "pickles2\\px2ErrorReporter\\": [
                 "php"
             ]
         }
