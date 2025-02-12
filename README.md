@@ -6,7 +6,7 @@ TBD
 
 ## 更新履歴 - Change log
 
-### pickles2/px2-error-reporter v1.0.0 (リリース日未定)
+### pickles2/px2-error-reporter v1.0.0 (2025年2月12日)
 
 - `tomk79/px2-error-reporter` から `pickles2/px2-error-reporter` へパッケージを移管した。
 - 名前空間名を `tomk79\pickles2\px2ErrorReporter` から `pickles2\px2ErrorReporter` に変更した。
